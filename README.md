@@ -1,2 +1,2 @@
-# Ajianli
-A简历
+#Ajianli
+这里存放的A简历
